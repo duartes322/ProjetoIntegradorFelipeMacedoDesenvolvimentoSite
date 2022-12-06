@@ -1,0 +1,61 @@
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+}
+
+#forms{
+    width: 100%;
+    color: #333;
+    text-align: center;
+}
+#menu{
+    text-align: center;
+}
+.txt_padrao{
+    display: block;
+    width: 100%;
+    text-align: justify;
+}
+
+#candidatos{
+    text-align: center;
+}
+
+section>a{
+    color: greenyellow;
+}
+
+a:hover{
+    background-color: #000;
+    color: #FFF;
+}
+
+a:active{
+    background-color: crimson;
+    color: #FFF;
+}
+
+input{
+    color: coral;
+    background-color: darkseagreen;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+#geral{
+    text-align: center;
+}
+
+#imagens{
+    width: 100%;
+    height: 250px;
+    background-color: beige;
+    text-align: center;
+}
